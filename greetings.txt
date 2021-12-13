@@ -1,0 +1,13 @@
+Big Brother is watching you {name}.
+Hey {name}.
+{name} has entered the building.
+Hello {name}. How are you doing today?
+{name}, did you ever hear the tragedy of Darth Plaggus the Wise?
+Did you remember to bring the pizza {name}?
+Welcome to PV net {name}.
+Help me {name}, I'm trapped in here!
+{name} has died of dysentery.
+Have a wonderful day {name}.
+{name} pharted.
+Hey {name}, your fly is down.
+Hey {name}, your shoelace is untied.
